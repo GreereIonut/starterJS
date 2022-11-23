@@ -44,3 +44,85 @@ total.push(addTipsBills(tips[i],bills[i]));
 total.forEach(showBill);
 
 */
+// const ionut={
+//     name:'ionut',
+//     birth:2002,
+//     friends:['Robert','Florin','Bogdan'],
+//     driverLicense:false,
+
+
+//     calcAge:function(){
+//         this.age=2022-this.birth;
+//         return this.age;
+//     },
+
+//      Summary:function(){
+//         console.log(`${this.name} is a ${this.calcAge()}-years old ,and he has ${this.driverLicense ? 'a' :'no'} 
+//         driving license!`);
+//     }
+
+
+// };
+
+// // console.log(ionut.age);
+
+// // const interestedIn=prompt('What are you interested in?');
+
+// // console.log(`you choose ${ionut[interestedIn]}`);
+// //     if (ionut[interestedIn])
+// //         console.log(ionut[interestedIn]);
+// //         else
+// //         console.log("wrong request");
+
+//         //"Ionut has 3 friends ,and his best friend is called Florin"
+
+// // console.log(`${ionut.name} has ${ionut.friends.length}
+// //  friends and his best friend called ${ionut.friends[1]}`);
+// // let a;
+// //  //"ionut is a 20 years old ,and he has a/no driver licence"
+// // if (ionut.driverLicense)
+// //   a='a';
+// //   else 
+// //   a='no';
+// console.log(ionut.Summary());
+
+
+
+// const markMiller={
+//     name:'Mark',
+//     prename:'Miller',
+//     mass:78,
+//     height:1.69,
+
+//     calcBMI:function(){
+//         this.BMI=this.mass/this.height**2;
+//         return this.BMI;
+//     }
+    
+// };
+
+// const johnSmith={
+//     name:'John',
+//     prename:'Smith',
+//     mass:92,
+//     height:1.95,
+
+
+//     calcBMI:function(){
+//         this.BMI=this.mass/this.height**2;
+//         return this.BMI;
+//     }
+
+// };
+
+// // console.log(`${markMiller.calcBMI() > johnSmith.calcBMI() ? "Mark's" :"John's" } 
+// // higher BMI ${markMiller.calcBMI() > johnSmith.calcBMI() ? markMiller.calcBMI() :johnSmith.calcBMI()},
+// // is higher,than ${markMiller.calcBMI() < johnSmith.calcBMI() ? "Mark's" :"John's"} 
+// // ,${markMiller.calcBMI() < johnSmith.calcBMI() ? markMiller.calcBMI() :johnSmith.calcBMI()}  `);
+// markMiller.calcBMI();
+// johnSmith.calcBMI();
+// console.log(`${markMiller.BMI>johnSmith.BMI ? `Mark's BMI ${markMiller.BMI}is higher than Mark's ${johnSmith.BMI} `
+//   : `john's BMI ${johnSmith.BMI} is higher than Mark's ${markMiller.BMI}`}`);
+ 
+
+
