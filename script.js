@@ -124,5 +124,42 @@ total.forEach(showBill);
 // console.log(`${markMiller.BMI>johnSmith.BMI ? `Mark's BMI ${markMiller.BMI}is higher than Mark's ${johnSmith.BMI} `
 //   : `john's BMI ${johnSmith.BMI} is higher than Mark's ${markMiller.BMI}`}`);
  
+// const array=[123,21,'ez','pz'];
+
+// for(let i=0;i<array.length;i++){
+//     if(typeof array[i] !=='number' )continue;
+//     console.log(array[i]); 
+// }
+    
+// const bills=[22,295,176,440,37,105,10,1100,86,52];
+
+// let tips=[];
+// let totals=[];
+
+// const calcTip=bill => bill >=50 && bill<=300 ? bill*0.15 : bill*0.20;
+
+// for(let i=0;i<bills.length;i++)
+// {
+//     const tip=calcTip(bills[i]);
+//     tips.push(tip);
+//     totals.push(tips[i]+bills[i]);
+// }
+// console.log(bills,tips,totals);
+// let sum=0;
+// const calcSum=function(arr){
+//     for(let i=0;i<arr.length;i++)
+//     {
+//          sum+=arr[i];
+
+//     }
+//      return sum;
+// };
 
 
+// const calcAverage=function(x)
+// {
+//    return calcSum(x)/x.length;
+
+// };
+// const n= calcAverage(totals);
+// console.log(n);
