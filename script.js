@@ -160,3 +160,35 @@ total.forEach(showBill);
 // const y = "pezz";
 
 
+// console.log(`working`);
+
+
+// const data1=[17,21,23];
+// const data2=[12,5,-5,0,4];
+
+
+
+// const printForecast=function(array){
+//     let str='';
+//     for(let i=0;i<array.length;i++){
+//         str=str+ ` ... ${array[i]}ºC in day ${[i+1]}`;
+//     }
+//     console.log(array);
+//     console.log(str);
+// };
+// printForecast(data1);
+// printForecast(data2);
+
+
+
+
+
+
+
+
+//create a function 
+//create an array whith will go and add the grates to itself
+//create a loop to write all the message in steps
+//
+
+
