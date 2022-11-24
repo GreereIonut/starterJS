@@ -155,6 +155,8 @@ total.forEach(showBill);
 // };
 // const n= calcAverage(totals);
 // console.log(n);
-const x = 24;
+// const x = 24;
 
-const y = "pezz";
+// const y = "pezz";
+
+
