@@ -1,7 +1,5 @@
 "use strict";
 
-
-
 /*let Dolphins;
 let Koalas;
 const calcAverage= (x,y,z)=>{
@@ -50,17 +48,15 @@ total.forEach(showBill);
 //     friends:['Robert','Florin','Bogdan'],
 //     driverLicense:false,
 
-
 //     calcAge:function(){
 //         this.age=2022-this.birth;
 //         return this.age;
 //     },
 
 //      Summary:function(){
-//         console.log(`${this.name} is a ${this.calcAge()}-years old ,and he has ${this.driverLicense ? 'a' :'no'} 
+//         console.log(`${this.name} is a ${this.calcAge()}-years old ,and he has ${this.driverLicense ? 'a' :'no'}
 //         driving license!`);
 //     }
-
 
 // };
 
@@ -82,11 +78,9 @@ total.forEach(showBill);
 // //  //"ionut is a 20 years old ,and he has a/no driver licence"
 // // if (ionut.driverLicense)
 // //   a='a';
-// //   else 
+// //   else
 // //   a='no';
 // console.log(ionut.Summary());
-
-
 
 // const markMiller={
 //     name:'Mark',
@@ -98,7 +92,7 @@ total.forEach(showBill);
 //         this.BMI=this.mass/this.height**2;
 //         return this.BMI;
 //     }
-    
+
 // };
 
 // const johnSmith={
@@ -107,7 +101,6 @@ total.forEach(showBill);
 //     mass:92,
 //     height:1.95,
 
-
 //     calcBMI:function(){
 //         this.BMI=this.mass/this.height**2;
 //         return this.BMI;
@@ -115,22 +108,22 @@ total.forEach(showBill);
 
 // };
 
-// // console.log(`${markMiller.calcBMI() > johnSmith.calcBMI() ? "Mark's" :"John's" } 
+// // console.log(`${markMiller.calcBMI() > johnSmith.calcBMI() ? "Mark's" :"John's" }
 // // higher BMI ${markMiller.calcBMI() > johnSmith.calcBMI() ? markMiller.calcBMI() :johnSmith.calcBMI()},
-// // is higher,than ${markMiller.calcBMI() < johnSmith.calcBMI() ? "Mark's" :"John's"} 
+// // is higher,than ${markMiller.calcBMI() < johnSmith.calcBMI() ? "Mark's" :"John's"}
 // // ,${markMiller.calcBMI() < johnSmith.calcBMI() ? markMiller.calcBMI() :johnSmith.calcBMI()}  `);
 // markMiller.calcBMI();
 // johnSmith.calcBMI();
 // console.log(`${markMiller.BMI>johnSmith.BMI ? `Mark's BMI ${markMiller.BMI}is higher than Mark's ${johnSmith.BMI} `
 //   : `john's BMI ${johnSmith.BMI} is higher than Mark's ${markMiller.BMI}`}`);
- 
+
 // const array=[123,21,'ez','pz'];
 
 // for(let i=0;i<array.length;i++){
 //     if(typeof array[i] !=='number' )continue;
-//     console.log(array[i]); 
+//     console.log(array[i]);
 // }
-    
+
 // const bills=[22,295,176,440,37,105,10,1100,86,52];
 
 // let tips=[];
@@ -155,7 +148,6 @@ total.forEach(showBill);
 //      return sum;
 // };
 
-
 // const calcAverage=function(x)
 // {
 //    return calcSum(x)/x.length;
@@ -163,3 +155,6 @@ total.forEach(showBill);
 // };
 // const n= calcAverage(totals);
 // console.log(n);
+const x = 24;
+
+const y = "pezz";
